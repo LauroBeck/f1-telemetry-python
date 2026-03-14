@@ -7,7 +7,7 @@
 ![Motorsport](https://img.shields.io/badge/Motorsport-F1-black)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Professional telemetry analytics for Formula 1 using Python and FastF1.
+
 
 
 Professional telemetry analytics for Formula 1 using Python and FastF1.
