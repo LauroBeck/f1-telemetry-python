@@ -1,4 +1,14 @@
-#  F1 Telemetry Python Lab
+# F1 Telemetry Python Lab
+# 
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![FastF1](https://img.shields.io/badge/FastF1-Telemetry-red)
+![Data](https://img.shields.io/badge/Data-Analytics-green)
+![Motorsport](https://img.shields.io/badge/Motorsport-F1-black)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+Professional telemetry analytics for Formula 1 using Python and FastF1.
+
 
 Professional telemetry analytics for Formula 1 using Python and FastF1.
 
