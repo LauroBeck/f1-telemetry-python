@@ -1,3 +1,4 @@
+
 # F1 Telemetry Python Lab
 
 
@@ -121,3 +122,10 @@ Financial analytics engineer and telemetry systems developer.
 
 Build an open telemetry analytics platform similar to motorsport engineering dashboards.
 
+=======
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastF1](https://img.shields.io/badge/FastF1-Telemetry-red)
+![Data Science](https://img.shields.io/badge/Data-Analytics-green)
+![Motorsport](https://img.shields.io/badge/Motorsport-Engineering-black)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+ (Create README.md)
