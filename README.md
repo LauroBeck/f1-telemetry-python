@@ -1,5 +1,5 @@
 # F1 Telemetry Python Lab
-# 
+
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![FastF1](https://img.shields.io/badge/FastF1-Telemetry-red)
