@@ -1,10 +1,10 @@
-# ??? F1 Telemetry Python Lab
+#  F1 Telemetry Python Lab
 
 Professional telemetry analytics for Formula 1 using Python and FastF1.
 
 ---
 
-## ?? Features
+##  Features
 
 - Qualifying lap analysis
 - Sector time comparison
@@ -16,7 +16,7 @@ Telemetry data from circuits such as the Shanghai International Circuit.
 
 ---
 
-## ?? Tech Stack
+##  Tech Stack
 
 - Python
 - FastF1 telemetry API
@@ -26,7 +26,7 @@ Telemetry data from circuits such as the Shanghai International Circuit.
 
 ---
 
-## ?? Project Structure
+##  Project Structure
 
 src/
  +- f1_terminal.py
@@ -40,7 +40,7 @@ requirements.txt
 
 ---
 
-## ?? Installation
+##  Installation
 
 Clone the repository:
 
@@ -64,13 +64,13 @@ pip install fastf1 pandas matplotlib rich
 
 ---
 
-## ? Run Telemetry Terminal
+##  Run Telemetry Terminal
 
 python src\f1_terminal.py
 
 ---
 
-## ?? Example Analysis
+##  Example Analysis
 
 The system compares telemetry between drivers and visualizes:
 
@@ -80,7 +80,7 @@ The system compares telemetry between drivers and visualizes:
 
 ---
 
-## ?? Teams Analyzed
+##  Teams Analyzed
 
 Mercedes-AMG Petronas Formula One Team  
 Scuderia Ferrari  
@@ -89,7 +89,7 @@ McLaren Formula 1 Team
 
 ---
 
-## ?? Future Development
+##  Future Development
 
 - tire degradation modeling
 - lap delta visualization
@@ -99,7 +99,7 @@ McLaren Formula 1 Team
 
 ---
 
-## ????? Author
+##  Author
 
 Lauro Beck
 
@@ -107,7 +107,7 @@ Financial analytics engineer and telemetry systems developer.
 
 ---
 
-## ? Project Goal
+##  Project Goal
 
 Build an open telemetry analytics platform similar to motorsport engineering dashboards.
 
